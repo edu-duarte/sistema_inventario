@@ -1,5 +1,5 @@
 import React from 'react';
-import { Content, Title, subTitle, ContainerHome } from './styled';
+import { Content, Title, ContainerHome } from './styled';
 import NavBarComponent from '../components/navBarComponent';
 import FooterComponent from '../components/footerComponent';
 
